@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Programming Languages</title>
+</head>
+<body>
+  <h1>Programeringspråk</h1>
+
+  <!--Noe er på norsk og noe er på engelsk fordi verdiene i JSONen er på engelsk, gidder ikke å endre alle verdiene i JSONen (det er vel over 1000) så HTML bruker norske navn og JS logikken bruker engelske,
+   kunne sikkert brukt replace men jeg har allerde skrevet JSen etter å bruke engelske navn, gir en fin måte å sjå om det du leser er bare HTML tekst (hvis det er på norsk) eller data hentet fra JSONen (hvis det er på engelsk)-->
+  <label for="attribute">Vis atributt:</label>
+  <select id="attribute">
+    <option value="year">År</option>
+    <option value="compiler">Compiler</option>
+    <option value="popularity">Popularitet</option>
+  </select>
+
+  <!--Denne vil ikke vise seg, husk å fiks.-->
+  <label for="sort">Sorter etter:</label>
+  <select id="sort"></select>
+
+  <br><br>
+
+  <label for="searchName">Søk med navn:</label>
+  <input type="text" id="searchName" placeholder="Søk med navn...">
+
+  <label for="searchAttr">Søk med atributt:</label>
+  <input type="text" id="searchAttr" placeholder="Søk med atributt...">
+
+  <ul id="list"></ul>
+
+  <script src="javascript.js"></script>
+</body>
+</html>
