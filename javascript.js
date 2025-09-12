@@ -80,7 +80,17 @@ function render() {
   list.innerHTML = "";
   displayData.forEach(lang => {
     const li = document.createElement("li");
-    li.textContent = `${lang.name} — ${lang[attribute]}`;
+
+    const img = document.createElement("img");
+    img.src = lang.image; // direkte fra JSON
+    img.alt = `${lang.name} logo`;
+    img.width = 20;
+    img.height = 20;
+    img.style.marginRight = "6px";
+
+    li.appendChild(img);
+    li.appendChild(document.createTextNode(`${lang.name} — ${lang[attribute]}`));
+
     list.appendChild(li);
   });
 }

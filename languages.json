@@ -3,1122 +3,1309 @@
     "name": "A Manufacturing Language",
     "year": "1970s",
     "compiler": "Various industrial compilers",
-    "popularity": 170
+    "popularity": 170,
+    "image": "image\\A_Manufacturing_Language_logo.jpg"
   },
   {
     "name": "A+",
     "year": "1988",
     "compiler": "A+ interpreter",
-    "popularity": 175
+    "popularity": 175,
+    "image": "image\\A__logo.png"
   },
   {
     "name": "A++",
     "year": "1996",
     "compiler": "A++ interpreter",
-    "popularity": 178
+    "popularity": 178,
+    "image": "image\\A___logo.png"
   },
   {
     "name": "ABAP",
     "year": "1983",
     "compiler": "SAP NetWeaver Application Server",
-    "popularity": 38
+    "popularity": 38,
+    "image": "image\\ABAP_logo.png"
   },
   {
     "name": "ABC",
     "year": "1987",
     "compiler": "ABC interpreter",
-    "popularity": 162
+    "popularity": 162,
+    "image": "image\\ABC_logo.jpg"
   },
   {
     "name": "ActionScript",
     "year": "1998",
     "compiler": "Adobe Flash Player, Apache Flex",
-    "popularity": 65
+    "popularity": 65,
+    "image": "image\\ActionScript_logo.png"
   },
   {
     "name": "Ada",
     "year": "1980",
     "compiler": "GNAT, AdaCore",
-    "popularity": 35
+    "popularity": 35,
+    "image": "image\\Ada_logo.png"
   },
   {
     "name": "Agda",
     "year": "2007",
     "compiler": "Agda compiler",
-    "popularity": 120
+    "popularity": 120,
+    "image": "image\\Agda_logo.png"
   },
   {
     "name": "ALGOL",
     "year": "1958",
     "compiler": "Various (historical)",
-    "popularity": 185
+    "popularity": 185,
+    "image": "image\\ALGOL_logo.png"
   },
   {
     "name": "Alice",
     "year": "1995",
     "compiler": "Alice IDE",
-    "popularity": 176
+    "popularity": 176,
+    "image": "image\\Alice_logo.png"
   },
   {
     "name": "APL",
     "year": "1966",
     "compiler": "Dyalog APL, GNU APL",
-    "popularity": 75
+    "popularity": 75,
+    "image": "image\\APL_logo.png"
   },
   {
     "name": "AppleScript",
     "year": "1993",
     "compiler": "osascript (macOS)",
-    "popularity": 80
+    "popularity": 80,
+    "image": "image\\AppleScript_logo.png"
   },
   {
     "name": "Arc",
     "year": "2008",
     "compiler": "Arc interpreter",
-    "popularity": 179
+    "popularity": 179,
+    "image": "image\\Arc_logo.png"
   },
   {
     "name": "Arduino",
     "year": "2005",
     "compiler": "Arduino IDE (based on avr-gcc)",
-    "popularity": 45
+    "popularity": 45,
+    "image": "image\\Arduino_logo.png"
   },
   {
     "name": "assembly language",
     "year": "1949",
     "compiler": "NASM, MASM, GAS",
-    "popularity": 28
+    "popularity": 28,
+    "image": "image\\assembly_language_logo.png"
   },
   {
     "name": "AutoHotkey",
     "year": "2003",
     "compiler": "AutoHotkey interpreter",
-    "popularity": 58
+    "popularity": 58,
+    "image": "image\\AutoHotkey_logo.png"
   },
   {
     "name": "AutoIt",
     "year": "1999",
     "compiler": "AutoIt interpreter/compiler",
-    "popularity": 95
+    "popularity": 95,
+    "image": "image\\AutoIt_logo.png"
   },
   {
     "name": "AWK",
     "year": "1977",
     "compiler": "awk, gawk, mawk",
-    "popularity": 55
+    "popularity": 55,
+    "image": "image\\AWK_logo.png"
   },
   {
     "name": "B",
     "year": "1969",
     "compiler": "B compiler (historical)",
-    "popularity": 190
+    "popularity": 190,
+    "image": "image\\B_logo.png"
   },
   {
     "name": "Ballerina",
     "year": "2017",
     "compiler": "Ballerina compiler",
-    "popularity": 150
+    "popularity": 150,
+    "image": "image\\Ballerina_logo.png"
   },
   {
     "name": "BASIC",
     "year": "1964",
     "compiler": "Various interpreters",
-    "popularity": 50
+    "popularity": 50,
+    "image": "image\\BASIC_logo.png"
   },
   {
     "name": "Bash",
     "year": "1989",
     "compiler": "Bash interpreter",
-    "popularity": 15
+    "popularity": 15,
+    "image": "image\\Bash_logo.png"
   },
   {
     "name": "BCPL",
     "year": "1967",
     "compiler": "BCPL compiler",
-    "popularity": 188
+    "popularity": 188,
+    "image": "image\\BCPL_logo.png"
   },
   {
     "name": "BeanShell",
     "year": "1999",
     "compiler": "BeanShell interpreter",
-    "popularity": 168
+    "popularity": 168,
+    "image": "image\\BeanShell_logo.png"
   },
   {
     "name": "Befunge",
     "year": "1993",
     "compiler": "Various interpreters",
-    "popularity": 200
+    "popularity": 200,
+    "image": "image\\Befunge_logo.png"
   },
   {
     "name": "BETA",
     "year": "1987",
     "compiler": "BETA compiler",
-    "popularity": 172
+    "popularity": 172,
+    "image": "image\\BETA_logo.png"
   },
   {
     "name": "BlitzMax",
     "year": "2004",
     "compiler": "BlitzMax compiler",
-    "popularity": 164
+    "popularity": 164,
+    "image": "image\\BlitzMax_logo.png"
   },
   {
     "name": "Boo",
     "year": "2003",
     "compiler": "booc",
-    "popularity": 171
+    "popularity": 171,
+    "image": "image\\Boo_logo.png"
   },
   {
     "name": "Brainfuck",
     "year": "1993",
     "compiler": "Various interpreters",
-    "popularity": 199
+    "popularity": 199,
+    "image": "image\\Brainfuck_logo.png"
   },
   {
     "name": "C",
     "year": "1972",
     "compiler": "GCC, Clang, MSVC",
-    "popularity": 2
+    "popularity": 2,
+    "image": "image\\C_logo.png"
   },
   {
     "name": "C#",
     "year": "2000",
     "compiler": ".NET SDK, Mono",
-    "popularity": 5
+    "popularity": 5,
+    "image": "image\\Csharp_Logo.png"
   },
   {
     "name": "C++",
     "year": "1985",
     "compiler": "GCC, Clang, MSVC",
-    "popularity": 4
+    "popularity": 4,
+    "image": "image\\C___logo.png"
   },
   {
     "name": "Caml",
     "year": "1985",
     "compiler": "Caml compiler",
-    "popularity": 163
+    "popularity": 163,
+    "image": "image\\Caml_logo.png"
   },
   {
     "name": "Carbon",
     "year": "2022",
     "compiler": "Carbon compiler (experimental)",
-    "popularity": 161
+    "popularity": 161,
+    "image": "image\\Carbon_logo.png"
   },
   {
     "name": "Ceylon",
     "year": "2011",
     "compiler": "Ceylon compiler",
-    "popularity": 158
+    "popularity": 158,
+    "image": "image\\Ceylon_logo.png"
   },
   {
     "name": "Chapel",
     "year": "2009",
     "compiler": "Chapel compiler",
-    "popularity": 110
+    "popularity": 110,
+    "image": "image\\Chapel_logo.jpg"
   },
   {
     "name": "CHILL",
     "year": "1980",
     "compiler": "GNU Chill",
-    "popularity": 184
+    "popularity": 184,
+    "image": "image\\CHILL_logo.png"
   },
   {
     "name": "Cilk",
     "year": "1994",
     "compiler": "Intel C++ Compiler",
-    "popularity": 167
+    "popularity": 167,
+    "image": "image\\Cilk_logo.png"
   },
   {
     "name": "Clojure",
     "year": "2007",
     "compiler": "Clojure compiler (JVM)",
-    "popularity": 42
+    "popularity": 42,
+    "image": "image\\Clojure_logo.png"
   },
   {
     "name": "ClojureScript",
     "year": "2011",
     "compiler": "ClojureScript compiler",
-    "popularity": 85
+    "popularity": 85,
+    "image": "image\\ClojureScript_logo.jpg"
   },
   {
     "name": "CLU",
     "year": "1975",
     "compiler": "CLU compiler",
-    "popularity": 183
+    "popularity": 183,
+    "image": "image\\CLU_logo.png"
   },
   {
     "name": "COBOL",
     "year": "1959",
     "compiler": "GnuCOBOL, IBM COBOL",
-    "popularity": 25
+    "popularity": 25,
+    "image": "image\\COBOL_logo.png"
   },
   {
     "name": "Cobra",
     "year": "2006",
     "compiler": "Cobra compiler",
-    "popularity": 169
+    "popularity": 169,
+    "image": "image\\Cobra_logo.png"
   },
   {
     "name": "CoffeeScript",
     "year": "2009",
     "compiler": "CoffeeScript compiler",
-    "popularity": 70
+    "popularity": 70,
+    "image": "image\\CoffeeScript_logo.png"
   },
   {
     "name": "ColdFusion Markup Language",
     "year": "1995",
     "compiler": "Adobe ColdFusion Server",
-    "popularity": 90
+    "popularity": 90,
+    "image": "image\\ColdFusion_Markup_Language_logo.png"
   },
   {
     "name": "Common Lisp",
     "year": "1984",
     "compiler": "SBCL, ECL, CCL",
-    "popularity": 60
+    "popularity": 60,
+    "image": "image\\Common_Lisp_logo.png"
   },
   {
     "name": "Component Pascal",
     "year": "1991",
     "compiler": "BlackBox Component Builder",
-    "popularity": 177
+    "popularity": 177,
+    "image": "image\\Component_Pascal_logo.png"
   },
   {
     "name": "CPL",
     "year": "1963",
     "compiler": "CPL compiler (historical)",
-    "popularity": 189
+    "popularity": 189,
+    "image": "image\\CPL_logo.jpg"
   },
   {
     "name": "Crystal",
     "year": "2014",
     "compiler": "Crystal compiler",
-    "popularity": 68
+    "popularity": 68,
+    "image": "image\\Crystal_logo.png"
   },
   {
     "name": "Csound",
     "year": "1985",
     "compiler": "Csound",
-    "popularity": 174
+    "popularity": 174,
+    "image": "image\\Csound_logo.png"
   },
   {
     "name": "Curl",
     "year": "1995",
     "compiler": "Curl RTE",
-    "popularity": 173
+    "popularity": 173,
+    "image": "image\\Curl_logo.png"
   },
   {
     "name": "Curry",
     "year": "1990s",
     "compiler": "PAKCS, KiCS2",
-    "popularity": 195
+    "popularity": 195,
+    "image": "image\\Curry_logo.png"
   },
   {
     "name": "Cyclone",
     "year": "2001",
     "compiler": "Cyclone compiler",
-    "popularity": 166
+    "popularity": 166,
+    "image": "image\\Cyclone_logo.png"
   },
   {
     "name": "D",
     "year": "2001",
     "compiler": "DMD, GDC, LDC",
-    "popularity": 32
+    "popularity": 32,
+    "image": "image\\D_logo.png"
   },
   {
     "name": "Dart",
     "year": "2011",
     "compiler": "Dart SDK",
-    "popularity": 20
+    "popularity": 20,
+    "image": "image\\Dart_logo.png"
   },
   {
     "name": "Delphi",
     "year": "1995",
     "compiler": "Embarcadero RAD Studio",
-    "popularity": 30
+    "popularity": 30,
+    "image": "image\\Delphi_logo.png"
   },
   {
     "name": "Dylan",
     "year": "1992",
     "compiler": "Open Dylan",
-    "popularity": 165
+    "popularity": 165,
+    "image": "image\\Dylan_logo.png"
   },
   {
     "name": "E",
     "year": "1997",
     "compiler": "E interpreter",
-    "popularity": 187
+    "popularity": 187,
+    "image": "image\\E_logo.jpg"
   },
   {
     "name": "Eiffel",
     "year": "1985",
     "compiler": "EiffelStudio",
-    "popularity": 100
+    "popularity": 100,
+    "image": "image\\Eiffel_logo.png"
   },
   {
     "name": "Elixir",
     "year": "2011",
     "compiler": "Elixir (BEAM VM)",
-    "popularity": 35
+    "popularity": 35,
+    "image": "image\\Elixir_logo.png"
   },
   {
     "name": "Elm",
     "year": "2012",
     "compiler": "Elm compiler",
-    "popularity": 72
+    "popularity": 72,
+    "image": "image\\Elm_logo.png"
   },
   {
     "name": "Emacs Lisp",
     "year": "1985",
     "compiler": "GNU Emacs",
-    "popularity": 48
+    "popularity": 48,
+    "image": "image\\Emacs_Lisp_logo.png"
   },
   {
     "name": "Erlang",
     "year": "1986",
     "compiler": "Erlang/OTP",
-    "popularity": 40
+    "popularity": 40,
+    "image": "image\\Erlang_logo.png"
   },
   {
     "name": "F#",
     "year": "2005",
     "compiler": ".NET SDK, Mono",
-    "popularity": 33
+    "popularity": 33,
+    "image": "image\\F_Sharp_logo.svg.png"
   },
   {
     "name": "F*",
     "year": "2011",
     "compiler": "F* compiler",
-    "popularity": 157
+    "popularity": 157,
+    "image": "image\\Fstar-official-logo-2015.png"
   },
   {
     "name": "Factor",
     "year": "2003",
     "compiler": "Factor VM",
-    "popularity": 130
+    "popularity": 130,
+    "image": "image\\Factor_logo.png"
   },
   {
     "name": "Falcon",
     "year": "2003",
     "compiler": "Falcon interpreter",
-    "popularity": 159
+    "popularity": 159,
+    "image": "image\\Falcon_logo.png"
   },
   {
     "name": "Fantom",
     "year": "2005",
     "compiler": "Fantom compiler",
-    "popularity": 156
+    "popularity": 156,
+    "image": "image\\Fantom_logo.png"
   },
   {
     "name": "Forth",
     "year": "1970",
     "compiler": "Gforth, SwiftForth",
-    "popularity": 78
+    "popularity": 78,
+    "image": "image\\Forth_logo.png"
   },
   {
     "name": "Fortran",
     "year": "1957",
     "compiler": "gfortran, Intel Fortran",
-    "popularity": 18
+    "popularity": 18,
+    "image": "image\\Fortran_logo.png"
   },
   {
     "name": "FreeBASIC",
     "year": "2004",
     "compiler": "FreeBASIC compiler",
-    "popularity": 125
+    "popularity": 125,
+    "image": "image\\FreeBASIC_logo.png"
   },
   {
     "name": "Frege",
     "year": "2011",
     "compiler": "Frege compiler (JVM)",
-    "popularity": 154
+    "popularity": 154,
+    "image": "image\\Frege_logo.png"
   },
   {
     "name": "G-code",
     "year": "1950s",
     "compiler": "CNC interpreters",
-    "popularity": 88
+    "popularity": 88,
+    "image": "image\\G-code_logo.png"
   },
   {
     "name": "GAP",
     "year": "1986",
     "compiler": "GAP system",
-    "popularity": 153
+    "popularity": 153,
+    "image": "image\\GAP_logo.jpg"
   },
   {
     "name": "GDScript",
     "year": "2014",
     "compiler": "Godot Engine",
-    "popularity": 62
+    "popularity": 62,
+    "image": "image\\GDScript_logo.png"
   },
   {
     "name": "Genie",
     "year": "2008",
     "compiler": "valac",
-    "popularity": 152
+    "popularity": 152,
+    "image": "image\\Genie_logo.png"
   },
   {
     "name": "Gleam",
     "year": "2019",
     "compiler": "Gleam compiler",
-    "popularity": 180
+    "popularity": 180,
+    "image": "image\\Gleam_logo.png"
   },
   {
     "name": "Go",
     "year": "2009",
     "compiler": "Go compiler",
-    "popularity": 8
+    "popularity": 8,
+    "image": "image\\Go_logo.png"
   },
   {
     "name": "Gosu",
     "year": "2010",
     "compiler": "Gosu compiler",
-    "popularity": 151
+    "popularity": 151,
+    "image": "image\\Gosu_logo.png"
   },
   {
     "name": "Groovy",
     "year": "2003",
     "compiler": "Groovy compiler (JVM)",
-    "popularity": 22
+    "popularity": 22,
+    "image": "image\\Groovy_logo.png"
   },
   {
     "name": "Hack",
     "year": "2014",
     "compiler": "HHVM",
-    "popularity": 92
+    "popularity": 92,
+    "image": "image\\Hack_logo.png"
   },
   {
     "name": "Harbour",
     "year": "1999",
     "compiler": "Harbour compiler",
-    "popularity": 149
+    "popularity": 149,
+    "image": "image\\Harbour_logo.png"
   },
   {
     "name": "Haskell",
     "year": "1990",
     "compiler": "GHC, Hugs",
-    "popularity": 28
+    "popularity": 28,
+    "image": "image\\Haskell_logo.png"
   },
   {
     "name": "Haxe",
     "year": "2005",
     "compiler": "Haxe compiler",
-    "popularity": 82
+    "popularity": 82,
+    "image": "image\\Haxe_logo.png"
   },
   {
     "name": "HolyC",
     "year": "2005",
     "compiler": "TempleOS compiler",
-    "popularity": 198
+    "popularity": 198,
+    "image": "image\\HolyC_logo.png"
   },
   {
     "name": "Icon",
     "year": "1977",
     "compiler": "Icon translator",
-    "popularity": 148
+    "popularity": 148,
+    "image": "image\\Icon_logo.png"
   },
   {
     "name": "Idris",
     "year": "2007",
     "compiler": "Idris compiler",
-    "popularity": 115
+    "popularity": 115,
+    "image": "image\\Idris_logo.png"
   },
   {
     "name": "Inform",
     "year": "1993",
     "compiler": "Inform compiler",
-    "popularity": 147
+    "popularity": 147,
+    "image": "image\\Inform_logo.png"
   },
   {
     "name": "Io",
     "year": "2002",
     "compiler": "Io interpreter",
-    "popularity": 197
+    "popularity": 197,
+    "image": "image\\Io_logo.png"
   },
   {
     "name": "J",
     "year": "1990",
     "compiler": "J interpreter",
-    "popularity": 105
+    "popularity": 105,
+    "image": "image\\J_logo.png"
   },
   {
     "name": "Java",
     "year": "1995",
     "compiler": "javac, OpenJDK",
-    "popularity": 3
+    "popularity": 3,
+    "image": "image\\Java_logo.png"
   },
   {
     "name": "JavaScript",
     "year": "1995",
     "compiler": "V8, SpiderMonkey, JavaScriptCore",
-    "popularity": 1
+    "popularity": 1,
+    "image": "image\\JavaScript_logo.png"
   },
   {
     "name": "Jinja",
     "year": "2008",
     "compiler": "Jinja2 (Python)",
-    "popularity": 52
+    "popularity": 52,
+    "image": "image\\Jinja_logo.png"
   },
   {
     "name": "Julia",
     "year": "2012",
     "compiler": "Julia compiler",
-    "popularity": 24
+    "popularity": 24,
+    "image": "image\\Julia_logo.png"
   },
   {
     "name": "K",
     "year": "1993",
     "compiler": "K interpreter",
-    "popularity": 146
+    "popularity": 146,
+    "image": "image\\K_logo.png"
   },
   {
     "name": "Kotlin",
     "year": "2011",
     "compiler": "Kotlin compiler (JVM)",
-    "popularity": 12
+    "popularity": 12,
+    "image": "image\\Kotlin_logo.png"
   },
   {
     "name": "LabVIEW",
     "year": "1986",
     "compiler": "LabVIEW",
-    "popularity": 44
+    "popularity": 44,
+    "image": "image\\LabVIEW_logo.png"
   },
   {
     "name": "Lasso",
     "year": "1995",
     "compiler": "Lasso Server",
-    "popularity": 145
+    "popularity": 145,
+    "image": "image\\Lasso_logo.png"
   },
   {
     "name": "Lean",
     "year": "2013",
     "compiler": "Lean compiler",
-    "popularity": 140
+    "popularity": 140,
+    "image": "image\\Lean_logo.png"
   },
   {
     "name": "Limbo",
     "year": "1995",
     "compiler": "Inferno",
-    "popularity": 144
+    "popularity": 144,
+    "image": "image\\Limbo_logo.png"
   },
   {
     "name": "Lisp",
     "year": "1958",
     "compiler": "Various implementations",
-    "popularity": 34
+    "popularity": 34,
+    "image": "image\\Lisp_logo.png"
   },
   {
     "name": "LiveCode",
     "year": "2001",
     "compiler": "LiveCode IDE",
-    "popularity": 143
+    "popularity": 143,
+    "image": "image\\LiveCode_logo.png"
   },
   {
     "name": "Logo",
     "year": "1967",
     "compiler": "UCBLogo, NetLogo",
-    "popularity": 98
+    "popularity": 98,
+    "image": "image\\Logo_logo.png"
   },
   {
     "name": "Lua",
     "year": "1993",
     "compiler": "Lua interpreter, LuaJIT",
-    "popularity": 26
+    "popularity": 26,
+    "image": "image\\Lua_logo.png"
   },
   {
     "name": "Luau",
     "year": "2019",
     "compiler": "Luau VM (Roblox)",
-    "popularity": 76
+    "popularity": 76,
+    "image": "image\\Luau_logo.png"
   },
   {
     "name": "M",
     "year": "1966",
     "compiler": "GT.M, YottaDB",
-    "popularity": 142
+    "popularity": 142,
+    "image": "image\\M_logo.png"
   },
   {
     "name": "Maple",
     "year": "1982",
     "compiler": "Maple",
-    "popularity": 108
+    "popularity": 108,
+    "image": "image\\Maple_logo.png"
   },
   {
     "name": "Mathematica",
     "year": "1988",
     "compiler": "Wolfram Mathematica",
-    "popularity": 36
+    "popularity": 36,
+    "image": "image\\Mathematica_logo.jpg"
   },
   {
     "name": "MATLAB",
     "year": "1984",
     "compiler": "MATLAB",
-    "popularity": 14
+    "popularity": 14,
+    "image": "image\\MATLAB_logo.png"
   },
   {
     "name": "Mercury",
     "year": "1995",
     "compiler": "Mercury compiler",
-    "popularity": 141
+    "popularity": 141,
+    "image": "image\\Mercury_logo.png"
   },
   {
     "name": "Mesa",
     "year": "1976",
     "compiler": "Mesa compiler",
-    "popularity": 186
+    "popularity": 186,
+    "image": "image\\Mesa_logo.png"
   },
   {
     "name": "ML",
     "year": "1973",
     "compiler": "SML/NJ, MLton",
-    "popularity": 96
+    "popularity": 96,
+    "image": "image\\ML_logo.png"
   },
   {
     "name": "Modula",
     "year": "1975",
     "compiler": "Modula compiler",
-    "popularity": 182
+    "popularity": 182,
+    "image": "image\\Modula_logo.png"
   },
   {
     "name": "Modula-2",
     "year": "1978",
     "compiler": "GNU Modula-2",
-    "popularity": 181
+    "popularity": 181,
+    "image": "image\\Modula-2_logo.jpg"
   },
   {
     "name": "Modula-3",
     "year": "1989",
     "compiler": "CM3",
-    "popularity": 180
+    "popularity": 180,
+    "image": "image\\Modula-3_logo.png"
   },
   {
     "name": "Mojo",
     "year": "2023",
     "compiler": "Mojo compiler",
-    "popularity": 160
+    "popularity": 160,
+    "image": "image\\Mojo_logo.png"
   },
   {
     "name": "MoonScript",
     "year": "2011",
     "compiler": "MoonScript compiler",
-    "popularity": 139
+    "popularity": 139,
+    "image": "image\\MoonScript_logo.png"
   },
   {
     "name": "MUMPS",
     "year": "1966",
     "compiler": "GT.M, Caché",
-    "popularity": 138
+    "popularity": 138,
+    "image": "image\\MUMPS_logo.png"
   },
   {
     "name": "Nemerle",
     "year": "2003",
     "compiler": "Nemerle compiler",
-    "popularity": 137
+    "popularity": 137,
+    "image": "image\\Nemerle_logo.png"
   },
   {
     "name": "NetLogo",
     "year": "1999",
     "compiler": "NetLogo",
-    "popularity": 136
+    "popularity": 136,
+    "image": "image\\NetLogo_logo.png"
   },
   {
     "name": "Nim",
     "year": "2008",
     "compiler": "Nim compiler",
-    "popularity": 54
+    "popularity": 54,
+    "image": "image\\Nim_logo.png"
   },
   {
     "name": "Nix",
     "year": "2003",
     "compiler": "Nix",
-    "popularity": 86
+    "popularity": 86,
+    "image": "image\\Nix_logo.png"
   },
   {
     "name": "Objective-C",
     "year": "1984",
     "compiler": "Clang, GCC",
-    "popularity": 16
+    "popularity": 16,
+    "image": "image\\Objective-C_logo.png"
   },
   {
     "name": "OCaml",
     "year": "1996",
     "compiler": "OCaml compiler",
-    "popularity": 38
+    "popularity": 38,
+    "image": "image\\OCaml_logo.png"
   },
   {
     "name": "Odin",
     "year": "2016",
     "compiler": "Odin compiler",
-    "popularity": 145
+    "popularity": 145,
+    "image": "image\\Odin_logo.png"
   },
   {
     "name": "Opa",
     "year": "2011",
     "compiler": "Opa compiler",
-    "popularity": 135
+    "popularity": 135,
+    "image": "image\\Opa_logo.png"
   },
   {
     "name": "OpenCL",
     "year": "2009",
     "compiler": "Various OpenCL compilers",
-    "popularity": 74
+    "popularity": 74,
+    "image": "image\\OpenCL_logo.png"
   },
   {
     "name": "Oxygene",
     "year": "2005",
     "compiler": "Elements compiler",
-    "popularity": 134
+    "popularity": 134,
+    "image": "image\\Oxygene_logo.png"
   },
   {
     "name": "Oz",
     "year": "1991",
     "compiler": "Mozart Programming System",
-    "popularity": 133
+    "popularity": 133,
+    "image": "image\\Oz_logo.png"
   },
   {
     "name": "P4",
     "year": "2014",
     "compiler": "p4c",
-    "popularity": 132
+    "popularity": 132,
+    "image": "image\\P4_logo.png"
   },
   {
     "name": "Pascal",
     "year": "1970",
     "compiler": "Free Pascal, Delphi",
-    "popularity": 29
+    "popularity": 29,
+    "image": "image\\Pascal_logo.png"
   },
   {
     "name": "Perl",
     "year": "1987",
     "compiler": "perl interpreter",
-    "popularity": 19
+    "popularity": 19,
+    "image": "image\\Perl_logo.png"
   },
   {
     "name": "PHP",
     "year": "1995",
     "compiler": "PHP interpreter, HHVM",
-    "popularity": 7
+    "popularity": 7,
+    "image": "image\\PHP_logo.png"
   },
   {
     "name": "PicoLisp",
     "year": "1988",
     "compiler": "PicoLisp interpreter",
-    "popularity": 131
+    "popularity": 131,
+    "image": "image\\PicoLisp_logo.png"
   },
   {
     "name": "Pike",
     "year": "1994",
     "compiler": "Pike interpreter",
-    "popularity": 130
+    "popularity": 130,
+    "image": "image\\Pike_logo.png"
   },
   {
     "name": "PL/I",
     "year": "1964",
     "compiler": "IBM PL/I, Iron Spring PL/I",
-    "popularity": 129
+    "popularity": 129,
+    "image": "image\\PL_I_logo.png"
   },
   {
     "name": "PL/SQL",
     "year": "1991",
     "compiler": "Oracle Database",
-    "popularity": 46
+    "popularity": 46,
+    "image": "image\\PL_SQL_logo.png"
   },
   {
     "name": "Pony",
     "year": "2014",
     "compiler": "ponyc",
-    "popularity": 135
+    "popularity": 135,
+    "image": "image\\Pony_logo.png"
   },
   {
     "name": "PostScript",
     "year": "1982",
     "compiler": "PostScript interpreters",
-    "popularity": 112
+    "popularity": 112,
+    "image": "image\\PostScript_logo.png"
   },
   {
     "name": "PowerShell",
     "year": "2006",
     "compiler": "PowerShell",
-    "popularity": 13
+    "popularity": 13,
+    "image": "image\\PowerShell_logo.png"
   },
   {
     "name": "Processing",
     "year": "2001",
     "compiler": "Processing IDE",
-    "popularity": 66
+    "popularity": 66,
+    "image": "image\\Processing_logo.png"
   },
   {
     "name": "Prolog",
     "year": "1972",
     "compiler": "SWI-Prolog, GNU Prolog",
-    "popularity": 41
+    "popularity": 41,
+    "image": "image\\Prolog_logo.png"
   },
   {
     "name": "PureScript",
     "year": "2013",
     "compiler": "PureScript compiler",
-    "popularity": 102
+    "popularity": 102,
+    "image": "image\\PureScript_logo.png"
   },
   {
     "name": "Python",
     "year": "1991",
     "compiler": "CPython, PyPy, Jython",
-    "popularity": 1
+    "popularity": 1,
+    "image": "image\\Python_logo.png"
   },
   {
     "name": "Q#",
     "year": "2017",
     "compiler": "Q# compiler",
-    "popularity": 118
+    "popularity": 118,
+    "image": "image\\Q_mini.png"
   },
   {
     "name": "R",
     "year": "1993",
     "compiler": "R interpreter",
-    "popularity": 10
+    "popularity": 10,
+    "image": "image\\R_logo.png"
   },
   {
     "name": "Racket",
     "year": "1995",
     "compiler": "Racket",
-    "popularity": 56
+    "popularity": 56,
+    "image": "image\\Racket_logo.png"
   },
   {
     "name": "Raku",
     "year": "2015",
     "compiler": "Rakudo",
-    "popularity": 94
+    "popularity": 94,
+    "image": "image\\Raku_logo.png"
   },
   {
     "name": "REBOL",
     "year": "1997",
     "compiler": "REBOL interpreter",
-    "popularity": 128
+    "popularity": 128,
+    "image": "image\\REBOL_logo.png"
   },
   {
     "name": "Red",
     "year": "2011",
     "compiler": "Red compiler",
-    "popularity": 128
+    "popularity": 128,
+    "image": "image\\Red_logo.png"
   },
   {
     "name": "REXX",
     "year": "1979",
     "compiler": "Regina REXX, ooRexx",
-    "popularity": 106
+    "popularity": 106,
+    "image": "image\\REXX_logo.png"
   },
   {
     "name": "Ring",
     "year": "2016",
     "compiler": "Ring VM",
-    "popularity": 155
+    "popularity": 155,
+    "image": "image\\Ring_logo.jpg"
   },
   {
     "name": "Roc",
     "year": "2020",
     "compiler": "Roc compiler",
-    "popularity": 127
+    "popularity": 127,
+    "image": "image\\Roc_logo.jpg"
   },
   {
     "name": "Ruby",
     "year": "1995",
     "compiler": "MRI, JRuby, TruffleRuby",
-    "popularity": 11
+    "popularity": 11,
+    "image": "image\\Ruby_logo.png"
   },
   {
     "name": "Rust",
     "year": "2010",
     "compiler": "rustc",
-    "popularity": 6
+    "popularity": 6,
+    "image": "image\\Rust_logo.png"
   },
   {
     "name": "S",
     "year": "1976",
     "compiler": "S-PLUS",
-    "popularity": 126
+    "popularity": 126,
+    "image": "image\\S_logo.jpg"
   },
   {
     "name": "SAS Language",
     "year": "1976",
     "compiler": "SAS",
-    "popularity": 23
+    "popularity": 23,
+    "image": "image\\SAS_Language_logo.png"
   },
   {
     "name": "Scala",
     "year": "2003",
     "compiler": "scalac (JVM)",
-    "popularity": 21
+    "popularity": 21,
+    "image": "image\\Scala_logo.png"
   },
   {
     "name": "Scheme",
     "year": "1975",
     "compiler": "MIT Scheme, Chicken Scheme",
-    "popularity": 64
+    "popularity": 64,
+    "image": "image\\Scheme_logo.png"
   },
   {
     "name": "Scratch",
     "year": "2003",
     "compiler": "Scratch IDE",
-    "popularity": 17
+    "popularity": 17,
+    "image": "image\\Scratch_logo.png"
   },
   {
     "name": "sed",
     "year": "1974",
     "compiler": "sed",
-    "popularity": 125
+    "popularity": 125,
+    "image": "image\\sed_logo.jpg"
   },
   {
     "name": "Self",
     "year": "1987",
     "compiler": "Self VM",
-    "popularity": 124
+    "popularity": 124,
+    "image": "image\\Self_logo.png"
   },
   {
     "name": "Shell script",
     "year": "1971",
     "compiler": "sh, bash, zsh",
-    "popularity": 9
+    "popularity": 9,
+    "image": "image\\Shell_script_logo.png"
   },
   {
     "name": "Simula",
     "year": "1967",
     "compiler": "Cim",
-    "popularity": 123
+    "popularity": 123,
+    "image": "image\\Simula_logo.png"
   },
   {
     "name": "Smalltalk",
     "year": "1972",
     "compiler": "Pharo, Squeak",
-    "popularity": 84
+    "popularity": 84,
+    "image": "image\\Smalltalk_logo.png"
   },
   {
     "name": "SNOBOL",
     "year": "1962",
     "compiler": "SNOBOL4",
-    "popularity": 122
+    "popularity": 122,
+    "image": "image\\SNOBOL_logo.jpg"
   },
   {
     "name": "Solidity",
     "year": "2014",
     "compiler": "solc",
-    "popularity": 48
+    "popularity": 48,
+    "image": "image\\Solidity_logo.png"
   },
   {
     "name": "SPARK",
     "year": "1988",
     "compiler": "GNAT",
-    "popularity": 121
+    "popularity": 121,
+    "image": "image\\SPARK_logo.png"
   },
   {
     "name": "SQL",
     "year": "1974",
     "compiler": "Various database engines",
-    "popularity": 4
+    "popularity": 4,
+    "image": "image\\SQL_logo.png"
   },
   {
     "name": "Squirrel",
     "year": "2003",
     "compiler": "Squirrel VM",
-    "popularity": 119
+    "popularity": 119,
+    "image": "image\\Squirrel_logo.png"
   },
   {
     "name": "Standard ML",
     "year": "1990",
     "compiler": "SML/NJ, MLton",
-    "popularity": 122
+    "popularity": 122,
+    "image": "image\\Standard_ML_logo.png"
   },
   {
     "name": "Stata",
     "year": "1985",
     "compiler": "Stata",
-    "popularity": 59
+    "popularity": 59,
+    "image": "image\\Stata_logo.png"
   },
   {
     "name": "Swift",
     "year": "2014",
     "compiler": "swiftc",
-    "popularity": 15
+    "popularity": 15,
+    "image": "image\\Swift_logo.png"
   },
   {
     "name": "Tcl",
     "year": "1988",
     "compiler": "tclsh",
-    "popularity": 51
+    "popularity": 51,
+    "image": "image\\Tcl_logo.png"
   },
   {
     "name": "TeX",
     "year": "1978",
     "compiler": "TeX",
-    "popularity": 104
+    "popularity": 104,
+    "image": "image\\TeX_logo.png"
   },
   {
     "name": "TypeScript",
     "year": "2012",
     "compiler": "TypeScript compiler",
-    "popularity": 5
+    "popularity": 5,
+    "image": "image\\TypeScript_logo.png"
   },
   {
     "name": "Unicon",
     "year": "1998",
     "compiler": "Unicon translator",
-    "popularity": 118
+    "popularity": 118,
+    "image": "image\\Unicon_logo.png"
   },
   {
     "name": "V",
     "year": "2019",
     "compiler": "V compiler",
-    "popularity": 165
+    "popularity": 165,
+    "image": "image\\V_logo.png"
   },
   {
     "name": "Vala",
     "year": "2006",
     "compiler": "valac",
-    "popularity": 132
+    "popularity": 132,
+    "image": "image\\Vala_logo.png"
   },
   {
     "name": "VBScript",
     "year": "1996",
     "compiler": "Windows Script Host",
-    "popularity": 67
+    "popularity": 67,
+    "image": "image\\VBScript_logo.png"
   },
   {
     "name": "Verilog",
     "year": "1984",
     "compiler": "Icarus Verilog, Verilator",
-    "popularity": 49
+    "popularity": 49,
+    "image": "image\\Verilog_logo.png"
   },
   {
     "name": "VHDL",
     "year": "1983",
     "compiler": "GHDL, ModelSim",
-    "popularity": 53
+    "popularity": 53,
+    "image": "image\\VHDL_logo.png"
   },
   {
     "name": "Vim script",
     "year": "1991",
     "compiler": "Vim",
-    "popularity": 43
+    "popularity": 43,
+    "image": "image\\Vim_script_logo.png"
   },
   {
     "name": "Visual Basic",
     "year": "1991",
     "compiler": "VB6, VB.NET compiler",
-    "popularity": 27
+    "popularity": 27,
+    "image": "image\\Visual_Basic_logo.png"
   },
   {
     "name": "Visual Basic .NET",
     "year": "2001",
     "compiler": ".NET SDK",
-    "popularity": 31
+    "popularity": 31,
+    "image": "image\\Visual_Basic_.NET_logo.png"
   },
   {
     "name": "WebAssembly",
     "year": "2017",
     "compiler": "Emscripten, wasm-pack",
-    "popularity": 37
+    "popularity": 37,
+    "image": "image\\WebAssembly_logo.png"
   },
   {
     "name": "Wolfram Language",
     "year": "1988",
     "compiler": "Wolfram Mathematica",
-    "popularity": 36
+    "popularity": 36,
+    "image": "image\\Wolfram_Language_logo.png"
   }
 ]
