@@ -1,4 +1,4 @@
-//Husker ikke hva denne gjør, ligger sikkert igjen fra at jeg prøvde en ting men så ombestemte jeg meg å gjorde det på en annen måte, husker ikke hva. Ting ser ut til å funke uten den men jeg lar den ligge i tilfelle det ødlegger en eller annen obskur feature.
+//Lagrer dataen fetchet fra JSON
 let data = [];
 
 //Fetch HTML ting
@@ -34,6 +34,8 @@ function updateSortOptions() {
   searchAttr.placeholder = `Søk med ${attribute}...`;
 }
 
+
+//Legger til valgene i dropdown menyen
 function addOption(value, text) {
   const option = document.createElement("option");
   option.value = value;
@@ -41,6 +43,7 @@ function addOption(value, text) {
   sortSelect.appendChild(option);
 }
 
+//Fetcher dataene fra JSON filen
 async function loadData() {
   const response = await fetch("languages.json");
   data = await response.json();
@@ -49,6 +52,7 @@ async function loadData() {
 }
 
 function render() {
+  //Leser og oppdaterer UIen
   const attribute = attributeSelect.value;
   const sortType = sortSelect.value;
   const queryName = searchName.value.toLowerCase();
@@ -59,6 +63,7 @@ function render() {
     lang[attribute].toString().toLowerCase().includes(queryAttr)
   );
 
+//Sorterer dataen basert på sorteringsvalg.
   if (sortType === "yearOldNew") {
     displayData.sort((a, b) => parseInt(a.year) - parseInt(b.year));
   } else if (sortType === "yearNewOld") {
@@ -77,6 +82,7 @@ function render() {
     displayData.sort((a, b) => b.name.localeCompare(a.name));
   }
 
+//Rensker opp de gamle verdiene, legger til bilder, legger til atributt teksten.
   list.innerHTML = "";
   displayData.forEach(lang => {
     const li = document.createElement("li");
@@ -95,6 +101,7 @@ function render() {
   });
 }
 
+//Kjører render funksjonen når brukeren oppdaterer noe.
 attributeSelect.addEventListener("change", () => {
   updateSortOptions();
   render();
