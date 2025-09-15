@@ -24,7 +24,7 @@ function updateSortOptions() {
     addOption("popularFirst", "Highest > Lowest");
     addOption("popularLast", "Lowest > Highest");
   }
-  //Her ligger sikkert problemet med sorter etter greien som ikke vil vise seg, HUSK Å FIKSE DETTE SENERE
+
 
   // Sorter etter navn
   addOption("nameAÅ", "Name (A > Å)");
@@ -82,7 +82,7 @@ function render() {
     displayData.sort((a, b) => b.name.localeCompare(a.name));
   }
 
-//Rensker opp de gamle verdiene, legger til bilder, legger til atributt teksten.
+//Fjerner de gamle verdiene, legger til bilder, legger til atributt teksten.
   list.innerHTML = "";
   displayData.forEach(lang => {
     const li = document.createElement("li");
@@ -111,5 +111,5 @@ sortSelect.addEventListener("change", render);
 searchName.addEventListener("input", render);
 searchAttr.addEventListener("input", render);
 
-//Denne sier seg sjøl
+
 loadData();
